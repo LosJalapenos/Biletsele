@@ -1,4 +1,4 @@
-module github.com/losjalapenos/biletsele
+module github.com/losjalapenos/biletsele/api
 
 go 1.16
 
